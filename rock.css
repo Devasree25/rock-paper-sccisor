@@ -59,6 +59,7 @@ p{
     border-radius: 5px; 
     align-items: center;
     margin-left: 600px;
+    cursor:pointer;
 }
 .replay{
     visibility: hidden;
